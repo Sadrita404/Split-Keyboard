@@ -98,5 +98,25 @@ So finally after web screapping a lot, i found the materials i required and addi
 ---
 
 ## Bill Of Material 
+|Name	|Purpose|	Qty	|Total Price (USD)	| Component Link	 |Distributor |
+| :--     | :--      |    :--   |  :--        |    :--       | :--         |
+|    3.7V 500mAh 1S LiPo Battery  |   For Powering up the keyboard    |   2    |      $5.57    |  [Link](https://robu.in/product/500mah-pcm-protected-micro-li-po-battery?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWfYpR1OEORZxzwKprlLmVoHS&gclid=CjwKCAjw46HPBhAMEiwASZpLRIRayuFWdqS5xWnM_2oxKe9fJt0YSp5_9g_DvRDZLFupqF4fNngABxoCFdcQAvD_BwE)        |  Robu.in        |
+|    PCB  |     PCB	For making the keyboard and adding the switches  |    1   |     $26.98     |  [Link](https://cart.jlcpcb.com/shopcart/cart/)         |    JLC PCB      |
+|   Keycaps   |   	For attaching it to the switches    |   1    |       $16.00   |    [Link](https://stackskb.com/store/white-grey-and-yellow-double-shot-abs-cherry-profile-keycaps/)       |     Stackskb.com     |
+|    Hot Swap Sockets(10)  |  For Connecting the Switch with the PCB     |   5    |       $6.19   |    [Link](https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?variant=48049369907478)       |    Neomacro.in      |
+|   5 Pin Switches(10)   |  For the PCB where I need to place the Switch     |    5   |      $18.80    |    [Link](https://neomacro.in/products/swk-ghost-dragons?variant=50342929039638)       |    Neomacro.in       |
+|     Single row header Pin |  	For connecting the Seeed Studio with the pcb   |   2    |     $0.19     |      [Link](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3)     |     Robu.in      |
+|   Schottky Diodes   |    For PCB ( registering the value of the key press)   |   50    |    $1.16      |      [Link](https://robu.in/product/1n5819hw-tech-public-40v-900mv3a-1a-sod-123-schottky-diodes-rohs)     |  Robu.in        |
+|     SeeedStudio XIAO RA4M1 |     For Controlling the PCB  |    2   |      $13.27    |      [Link](https://robu.in/product/seeedstudio-xiao-ra4m1-smallest-dev-board-based-on-32-bit-renesas-ra4m1-arduino-ide-ready?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWcqjq_QEoEvf3xNuTNOugOTx&gclid=CjwKCAjw46HPBhAMEiwASZpLRLnkuDtY6HZC0sybgRdPP0BMe69BSHzKwWG3fz8RkixvA43YS1gEdxoCIX4QAvD_BwE)     |        Robu.in   |
+|  Total    |       |       |          |         |     $98.75     |
+|  Round Off Total (USD)    |       |       |          |          |        $100  |
 
+
+## For 3d Printing I have use Legion where the cost is included in the Shipping
+|Tax (USD)| Shipping (USD)|
+|:-- | :--|
+|$4.12  |   $6.48|
+| Round Off Total (USD)   |  $100   |
+
+---
 
