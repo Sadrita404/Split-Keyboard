@@ -1,9 +1,11 @@
 |Title | Split-Keyboard|
 |:-- |:--|
+|Project Link |  [Link](https://stasis.hackclub.com/dashboard/projects/cmo8yi3tt00rt01nvz4f58jkx) |
 |Author | Sadrita Neogi|
 |Platform | Stasis|
 |Tire | 3|
 
+### For [Journal](https://github.com/Sadrita404/Split-Keyboard/blob/main/Journal.md)
 ## Overview
 
 This split keyboard is basically fixes everything annoying about standard typing. We took the logic of an ortholinear grid (where everything is predictable) and mashed it together with a column stagger that actually matches how long your fingers are.
