@@ -60,6 +60,17 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 <img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 55 04 PM" src="https://github.com/user-attachments/assets/9b95db3f-5527-46f1-b3ba-f8d414320651" />
 
+---
+### After Assembly
+
+<img width="1448" height="765" alt="Screenshot 2026-04-24 at 6 51 35 PM" src="https://github.com/user-attachments/assets/cb704331-c60e-4410-801a-d4f2c6b8fd54" />
+
+---
+
+<img width="1440" height="757" alt="Screenshot 2026-04-24 at 6 50 23 PM" src="https://github.com/user-attachments/assets/43937906-0b96-4b84-b21c-345e07a1e151" />
+
+---
+
 #### I have also engraved my name to the case that I have design
 
 ---
