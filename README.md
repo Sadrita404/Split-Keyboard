@@ -63,11 +63,13 @@ This split keyboard is basically fixes everything annoying about standard typing
 ---
 ### After Assembly
 
-<img width="1448" height="765" alt="Screenshot 2026-04-24 at 6 51 35 PM" src="https://github.com/user-attachments/assets/cb704331-c60e-4410-801a-d4f2c6b8fd54" />
+
+<img width="1470" height="956" alt="Screenshot 2026-05-01 at 11 01 41 AM" src="https://github.com/user-attachments/assets/d3993752-e409-4dae-b66f-c48bf0ef2276" />
 
 ---
 
-<img width="1440" height="757" alt="Screenshot 2026-04-24 at 6 50 23 PM" src="https://github.com/user-attachments/assets/43937906-0b96-4b84-b21c-345e07a1e151" />
+<img width="1470" height="956" alt="Screenshot 2026-05-01 at 11 02 41 AM" src="https://github.com/user-attachments/assets/3893088f-1e6d-4f3a-b6d4-9e2f32352e9f" />
+
 
 ---
 
