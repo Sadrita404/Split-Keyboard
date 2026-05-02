@@ -13,8 +13,11 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 ---
 
-## Setp file - I could not add the step file of the fully assemble project as the step file is larger than 25mb and I could not upload it
-But I added the step file in the google drive and put it in the READE ME - https://drive.google.com/file/d/17ryGtP1O4n3rAgb9N_doz-zrAHweq873/view?usp=sharing
+## Setp file - 
+
+I could not add the step file of the fully assemble project as the step file is larger than 25mb and I could not upload it
+
+### But I added the step file in the google drive and put it in the READE ME - [DRIVE LINK](https://drive.google.com/file/d/17ryGtP1O4n3rAgb9N_doz-zrAHweq873/view?usp=sharing)
 
 ---
 
