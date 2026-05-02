@@ -75,6 +75,11 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 #### I have also engraved my name to the case that I have design
 
+
+
+
+<img width="755" height="605" alt="Screenshot 2026-05-02 at 9 57 06 PM" src="https://github.com/user-attachments/assets/03d22233-b14e-4fe0-a2ce-00c77afd5b7f" />
+
 ---
 ## Bill Of Material (BOM)
 |Name	|Purpose|	Qty	|Total Price (USD)	| Component Link	 |Distributor |
