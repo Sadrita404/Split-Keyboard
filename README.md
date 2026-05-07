@@ -1,9 +1,9 @@
 |Title | Split-Keyboard|
 |:-- |:--|
-|Project Link |  [Link](https://stasis.hackclub.com/dashboard/projects/cmo8yi3tt00rt01nvz4f58jkx) |
+|Project Link |  [Link](https://forge.hackclub.com/projects/296) |
 |Author | Sadrita Neogi|
-|Platform | Stasis|
-|Tire | 3|
+|Platform | Forge|
+|Tire | 2|
 
 ### For [Journal](https://github.com/Sadrita404/Split-Keyboard/blob/main/Journal.md)
 ## Overview
@@ -98,5 +98,5 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 ---
 
-## Project Under [Hack Club](https://hackclub.com/) & [Stasis](https://stasis.hackclub.com/starter-projects)
+## Project Under [Hack Club](https://hackclub.com/) & [Forge](https://forge.hackclub.com/)
 
