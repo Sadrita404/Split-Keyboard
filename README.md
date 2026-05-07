@@ -44,13 +44,6 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 ### For the Case I have choose Fusion 360 for this project
 
-<img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 52 18 PM" src="https://github.com/user-attachments/assets/b2d61303-5858-4f1b-a989-5585bc03a8e3" />
-
----
-
-<img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 55 17 PM" src="https://github.com/user-attachments/assets/6dd99ede-0e9d-4c08-af44-7cdf2eb8eced" />
-
-
 ---
 
 <img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 54 06 PM" src="https://github.com/user-attachments/assets/59041f16-5dad-4cdb-8690-4b401d1dc287" />
@@ -61,34 +54,24 @@ This split keyboard is basically fixes everything annoying about standard typing
 <img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 55 04 PM" src="https://github.com/user-attachments/assets/9b95db3f-5527-46f1-b3ba-f8d414320651" />
 
 ---
+## Top Plate 
+
+
+<img width="1470" height="956" alt="Screenshot 2026-05-07 at 11 12 01 AM" src="https://github.com/user-attachments/assets/0927e529-a1c2-411f-bb14-f9307dfadfe0" />
+
+---
+
 ### After Assembly
 
-
-<img width="1470" height="956" alt="Screenshot 2026-05-01 at 11 01 41 AM" src="https://github.com/user-attachments/assets/d3993752-e409-4dae-b66f-c48bf0ef2276" />
-
----
-
-<img width="1470" height="956" alt="Screenshot 2026-05-01 at 11 02 41 AM" src="https://github.com/user-attachments/assets/3893088f-1e6d-4f3a-b6d4-9e2f32352e9f" />
-
+<img width="1470" height="956" alt="Screenshot 2026-05-07 at 11 08 56 AM" src="https://github.com/user-attachments/assets/8ad9b47a-9d02-4a13-bf1a-3a7e362f3366" />
 
 ---
 
-#### I have also engraved my name to the case that I have design
+<img width="1470" height="956" alt="Screenshot 2026-05-07 at 11 09 07 AM" src="https://github.com/user-attachments/assets/38339fe5-83b1-41d1-a38e-d71c9d7c848c" />
 
 
 
 
-<img width="755" height="605" alt="Screenshot 2026-05-02 at 9 57 06 PM" src="https://github.com/user-attachments/assets/03d22233-b14e-4fe0-a2ce-00c77afd5b7f" />
-
----
-
-#### Added the Key Caps to the Final Assembled project in CAD
-
-<img width="1470" height="956" alt="Screenshot 2026-05-07 at 8 33 16 AM" src="https://github.com/user-attachments/assets/e9f2c573-52dc-43ff-95a4-ab614767006f" />
-
----
-
-<img width="1470" height="956" alt="Screenshot 2026-05-07 at 8 33 03 AM" src="https://github.com/user-attachments/assets/0d2b9c32-40c6-41b2-9c14-ef4b507bc3a9" />
 
 
 ---
