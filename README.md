@@ -5,7 +5,6 @@
 |Platform | Forge|
 |Tire | 2|
 
-### For [Journal](https://github.com/Sadrita404/Split-Keyboard/blob/main/Journal.md)
 ## Overview
 
 This split keyboard is basically fixes everything annoying about standard typing. We took the logic of an ortholinear grid (where everything is predictable) and mashed it together with a column stagger that actually matches how long your fingers are.
