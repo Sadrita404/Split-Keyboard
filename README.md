@@ -81,6 +81,17 @@ This split keyboard is basically fixes everything annoying about standard typing
 <img width="755" height="605" alt="Screenshot 2026-05-02 at 9 57 06 PM" src="https://github.com/user-attachments/assets/03d22233-b14e-4fe0-a2ce-00c77afd5b7f" />
 
 ---
+
+#### Added the Key Caps to the Final Assembled project in CAD
+
+<img width="1470" height="956" alt="Screenshot 2026-05-07 at 8 33 16 AM" src="https://github.com/user-attachments/assets/e9f2c573-52dc-43ff-95a4-ab614767006f" />
+
+---
+
+<img width="1470" height="956" alt="Screenshot 2026-05-07 at 8 33 03 AM" src="https://github.com/user-attachments/assets/0d2b9c32-40c6-41b2-9c14-ef4b507bc3a9" />
+
+
+---
 ## Bill Of Material (BOM)
 |Name	|Purpose|	Qty	|Total Price (USD)	| Component Link	 |Distributor |
 | :--     | :--      |    :--   |  :--        |    :--       | :--         |
