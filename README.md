@@ -84,7 +84,7 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 6) Then we will add the 3d Printed top Plate to the Case and fix it.
 
-7)After that we will put the 5pin Switches in the PCb gently , to all the Places.
+7) After that we will put the 5pin Switches in the PCb gently , to all the Places.
 
 8) And then we will add the Key Caps to the Switches.
 
