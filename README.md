@@ -70,7 +70,25 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 
 
+---
+## Assembly Instructions :-
+1) First we need to get the PCB and then startrd soldering the **Schottky Diodes** to all the pads of the PCB .
 
+2) After that we need to add the **SeeedStudio XIAO RA4M1** to the designated spot on the PCb .
+
+3) After that we will need to connect the SeeedStudio XIAO RA4M1 to the PC and upload the code given in the [FIRMWARE](https://github.com/Sadrita404/Split-Keyboard/tree/main/FIRMWARE) and use **Arduino IDE** to upload the code .
+
+4) Then will will solder the battery to the designated spot on the PCb .
+
+5) After that we will take our 3d Printed PCB Case and and screw the pcb to the case .
+
+6) Then we will add the 3d Printed top Plate to the Case and fix it.
+
+7)After that we will put the 5pin Switches in the PCb gently , to all the Places.
+
+8) And then we will add the Key Caps to the Switches.
+
+9) The last step connect the Keyboard to the PC and start using it...
 
 
 ---
