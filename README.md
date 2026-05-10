@@ -96,7 +96,7 @@ This split keyboard is basically fixes everything annoying about standard typing
 |Name	|Purpose|	Qty	|Total Price (USD)	| Component Link	 |Distributor |
 | :--     | :--      |    :--   |  :--        |    :--       | :--         |
 |    3.7V 500mAh 1S LiPo Battery  |   For Powering up the keyboard    |   2    |      $5.57    |  [Link](https://robu.in/product/500mah-pcm-protected-micro-li-po-battery?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWfYpR1OEORZxzwKprlLmVoHS&gclid=CjwKCAjw46HPBhAMEiwASZpLRIRayuFWdqS5xWnM_2oxKe9fJt0YSp5_9g_DvRDZLFupqF4fNngABxoCFdcQAvD_BwE)        |  Robu.in        |
-|    PCB  |     PCB	For making the keyboard and adding the switches  |    1   |     $38.26     |  [Link](https://cart.jlcpcb.com/shopcart/cart/)         |    All PCB      |
+|    PCB  |     PCB	For making the keyboard and adding the switches  |    1   |     $20     |  [Link](https://cart.jlcpcb.com/shopcart/cart/)         |    All PCB      |
 |   Keycaps   |   	For attaching it to the switches    |   1    |       $16.00   |    [Link](https://stackskb.com/store/white-grey-and-yellow-double-shot-abs-cherry-profile-keycaps/)       |     Stackskb.com     |
 |    Hot Swap Sockets(10)  |  For Connecting the Switch with the PCB     |   5    |       $6.19   |    [Link](https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?variant=48049369907478)       |    Neomacro.in      |
 |   5 Pin Switches(10)   |  For the PCB where I need to place the Switch     |    5   |      $18.80    |    [Link](https://neomacro.in/products/swk-ghost-dragons?variant=50342929039638)       |    Neomacro.in       |
