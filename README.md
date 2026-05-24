@@ -1,3 +1,10 @@
+
+<img width="2940" height="1240" alt="Split Keyboard (1)" src="https://github.com/user-attachments/assets/a44a14e1-dc74-43b5-91ac-3b86ffd69d4d" />
+
+
+
+---
+
 |Title | Split-Keyboard|
 |:-- |:--|
 |Project Link |  [Link](https://forge.hackclub.com/projects/296) |
@@ -45,11 +52,6 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 ---
 
-<img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 54 06 PM" src="https://github.com/user-attachments/assets/59041f16-5dad-4cdb-8690-4b401d1dc287" />
-
-
----
-
 <img width="1470" height="956" alt="Screenshot 2026-04-22 at 10 55 04 PM" src="https://github.com/user-attachments/assets/9b95db3f-5527-46f1-b3ba-f8d414320651" />
 
 ---
@@ -66,7 +68,8 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 ---
 
-<img width="1470" height="956" alt="Screenshot 2026-05-07 at 11 09 07 AM" src="https://github.com/user-attachments/assets/38339fe5-83b1-41d1-a38e-d71c9d7c848c" />
+
+<img width="2940" height="1240" alt="Split Keyboard (2)" src="https://github.com/user-attachments/assets/8e401af9-593c-4c32-82f4-1cd5b06142bf" />
 
 
 
