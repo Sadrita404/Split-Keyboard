@@ -93,6 +93,10 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 9) The last step connect the Keyboard to the PC and start using it...
 
+---
+
+<img width="397" height="561" alt="SPlit" src="https://github.com/user-attachments/assets/11a850e5-0a32-49a7-b12b-7723ca2cb610" />
+
 
 ---
 ## Bill Of Material (BOM)
