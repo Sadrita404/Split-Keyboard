@@ -6,11 +6,9 @@
 ---
 
 |Title | Split-Keyboard|
-|:-- |:--|
-|Project Link |  [Link](https://forge.hackclub.com/projects/296) |
+|:-- |:--||
 |Author | Sadrita Neogi|
-|Platform | Forge|
-|Tire | 2|
+
 
 ## Overview
 
@@ -122,5 +120,5 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 ---
 
-## Project Under [Hack Club](https://hackclub.com/) & [Forge](https://forge.hackclub.com/)
+## Project Under [Hack Club](https://hackclub.com/) 
 
