@@ -6,7 +6,7 @@
 ---
 
 |Title | Split-Keyboard|
-|:-- |:--||
+|:-- |:--|
 |Author | Sadrita Neogi|
 
 
@@ -95,6 +95,7 @@ This split keyboard is basically fixes everything annoying about standard typing
 
 <img width="397" height="561" alt="SPlit" src="https://github.com/user-attachments/assets/11a850e5-0a32-49a7-b12b-7723ca2cb610" />
 
+##### [Lapse For Poster Design ](https://lapse.hackclub.com/timelapse/cM2Pj_Yv2DLz)
 
 ---
 ## Bill Of Material (BOM)
